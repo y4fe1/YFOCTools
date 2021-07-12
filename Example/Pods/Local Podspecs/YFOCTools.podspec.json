@@ -1,0 +1,22 @@
+{
+  "name": "YFOCTools",
+  "version": "0.1.0",
+  "summary": "A short description of YFOCTools.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/y4fe1/YFOCTools",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "y4fe1": "gao_yafei@163.com"
+  },
+  "source": {
+    "git": "https://github.com/y4fe1/YFOCTools.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YFOCTools/Classes/**/*"
+}

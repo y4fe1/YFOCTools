@@ -1,0 +1,6 @@
+framework module YFOCTools {
+  umbrella header "YFOCTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
