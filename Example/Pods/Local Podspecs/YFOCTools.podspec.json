@@ -1,8 +1,8 @@
 {
   "name": "YFOCTools",
   "version": "0.1.0",
-  "summary": "A short description of YFOCTools.",
-  "description": "TODO: Add long description of the pod here.",
+  "summary": "OC工具库",
+  "description": "OC工具库",
   "homepage": "https://github.com/y4fe1/YFOCTools",
   "license": {
     "type": "MIT",
@@ -13,6 +13,7 @@
   },
   "source": {
     "git": "https://github.com/y4fe1/YFOCTools.git",
+    "branch": "main",
     "tag": "0.1.0"
   },
   "platforms": {
